@@ -1,0 +1,10 @@
+:root {
+  color-scheme: light;
+  --background: #fff;
+  --foreground: #111;
+  --card-background: #f0f0f0;
+}
+
+body {
+  margin: 0;
+}
